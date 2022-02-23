@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consultum sanitatis, a directory to health displayed in several choice medecines for the cure of the rageing gout, the tormenting stone, the panting asthma, the sence destroying epilepsie and convulsion fits, and fits of the mother, the killing surfeits and feavors, the lingring agues, and all other (by some reputed in curable) distempers where the power of the disease hath not conquered the strength of nature / made and composed by the long sturdy practice and experience of Roger Dixon ...</title>
+            <author>Dixon, Roger, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36188</idno>
+            <idno type="STC">Wing D1750</idno>
+            <idno type="STC">ESTC R15768</idno>
+            <idno type="EEBO-CITATION">12338954</idno>
+            <idno type="OCLC">ocm 12338954</idno>
+            <idno type="VID">59838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59838)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 140:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Consultum sanitatis, a directory to health displayed in several choice medecines for the cure of the rageing gout, the tormenting stone, the panting asthma, the sence destroying epilepsie and convulsion fits, and fits of the mother, the killing surfeits and feavors, the lingring agues, and all other (by some reputed in curable) distempers where the power of the disease hath not conquered the strength of nature / made and composed by the long sturdy practice and experience of Roger Dixon ...</title>
+                  <author>Dixon, Roger, 17th cent.</author>
+               </titleStmt>
+               <extent>[3], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drugs --  Prescribing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59838:1"/>
+            <pb facs="tcp:59838:1" rendition="simple:additions"/>
+            <p>Conſultum Sanitatis, A DIRECTORY to HEALTH, Diſplayed in ſeveral CHOICE MEDECINES For the Cure of The <hi>Rageing Gout,</hi> The <hi>tormenting Stone,</hi> The panting <hi>Aſthma,</hi> The ſence deſtroy<g ref="char:EOLhyphen"/>ing <hi>Epilepſie</hi> and <hi>Convulſion</hi> fits, and fits of the <hi>Mother,</hi> the killing <hi>Surfeits</hi> and <hi>Feavors,</hi> the lingring <hi>Agues,</hi> and all other (by ſome reputed in curable) diſtempers where the power of the diſeaſe hath not conquered the ſtrength of Nature.</p>
+            <p>Made and Compoſed by the long Stu<g ref="char:EOLhyphen"/>dy Practice and Experience of <hi>Roger Dixon</hi> Maſter in <hi>Chirurgery.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad now at the Requeſt of ſome Friends by him publiſhed for the general good.</p>
+            <p>
+               <hi>LONDON</hi> Printed in the year, 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59838:2"/>
+            <pb facs="tcp:59838:2"/>
+            <head>TO THE Ingenious Reader.</head>
+            <opener>
+               <salute>Readers,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>FTER a long time not onely of ſtudy, but alſo practice and ex<g ref="char:EOLhyphen"/>perience of the many excellent preparations here mentioned; I was at laſt induced to publiſh them; though I have often reſolved the Contrary; but at laſt being unwilling to let them dye; and finding daily, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny Emperical Trumperies beagged
+<pb facs="tcp:59838:3"/>on, abroad; I was induced to publiſh this ſmall Treatiſe; That the world may have the experience of truths publiſhed in Print aſwell as they have too often woful experience of the So<g ref="char:EOLhyphen"/>phiſtications of Ignorant cracks I do not write this out of any oſtenta<g ref="char:EOLhyphen"/>tion but refer the proof hereof to the Judgement of thoſe Who ſhall make experiment, in the mean time, I ſhall deſire all parties to ſuſpend their cenſure; and put it to the Teſt: be<g ref="char:EOLhyphen"/>fore they vent any prejudicate opinion or raſhly paſſe ſentence either good or bad, on either the Author or Mede<g ref="char:EOLhyphen"/>cines; and let the Medecines them<g ref="char:EOLhyphen"/>ſelves be Judges on my part; I intend not this to make an <hi>Abſoloms Piller;</hi> like him that is <hi>Sutor ultra Crepi<g ref="char:EOLhyphen"/>dam;</hi> but have kept my ſelf within the bounds of Art, whereof I am a member; and ſhall be ready and wil<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:59838:3"/>to render to the judicious, an ac<g ref="char:EOLhyphen"/>count thereof, for the ignorant, or the detracting Momus or Zoilus; they may keep their mony and their diſ<g ref="char:EOLhyphen"/>eaſes too; for the ſober Judicious they ſhall at any time when deſired have in what is convenient the ready aſſiſtance of</p>
+            <closer>
+               <salute>Reader</salute> 
+               <signed>Your real Friend <hi>ROGER DIXON.</hi>
+               </signed>
+               <dateline>
+                  <hi>Water Lane near the</hi> Cuſtome-houſe. <date>March 10. 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="medicinal_treatise">
+            <pb facs="tcp:59838:4"/>
+            <pb n="9" facs="tcp:59838:4"/>
+            <p>
+               <list>
+                  <head>The ſeveral kinds of Medicines <hi>I</hi> ſhall here treat of, are ranked under theſe generall heads.</head>
+                  <item>I. <hi>
+                        <seg rend="decorInit">S</seg>Ol</hi> triumphans, being the <hi>Horizantall Gold</hi> of <hi>Van Helmont</hi> or the <hi>Diaphore<g ref="char:EOLhyphen"/>tick</hi> of <hi>Paracelſus.</hi>
+                  </item>
+                  <item>II. A pill for the certain cure of ſuch who have gotten any wounds, hurts or diſtempers by their over much valour in the wars of <hi>Venus.</hi>
+                  </item>
+                  <pb n="10" facs="tcp:59838:5"/>
+                  <item> III. A general purge, neatly purging all humours in the body, being very good in the beginning of <hi>Feavers,</hi> and all caſes where purging is requiſite: having been approved of and commended by Learned Phyſitians.</item>
+                  <item>IIII. A Pill for the <hi>Convulſion,</hi> and fits of the <hi>Mother,</hi> and vapours thence ari<g ref="char:EOLhyphen"/>ſing, a certain and approved Remedy.</item>
+                  <item>V. A <hi>Balſamick pill,</hi> being the Eſſenti<g ref="char:EOLhyphen"/>al virtue of vegetables truly corrected and rightly prepared.</item>
+                  <item>VI. A powder for all ſorts of <hi>Agues,</hi> e<g ref="char:EOLhyphen"/>ſpecially
+<pb n="11" facs="tcp:59838:5"/>the <hi>Quartain</hi> it cures infallibly.</item>
+                  <item>VII. <hi>Sal mundi,</hi> a ſuper-excellent medi<g ref="char:EOLhyphen"/>cine, never before made or publiſhed by any, nor is to be found in any Doctors ſtudy, Apothecaries ſhop, or Chymiſts Laberatory.</item>
+                  <item>VIII. A powder for the <hi>Green-ſickneſs:</hi> a ſafe and ſpeedy cure for that diſtemper.</item>
+                  <item>IX. A plaiſter for <hi>Corns</hi> in the feet, toes, or elſe where, which preſently gives eaſe, diſſolves and preſently takes them away.</item>
+               </list>
+            </p>
+            <p>Of every one of theſe in order I ſhall give you a particular deſcription of their virtues and uſe, and referr you to the pla<g ref="char:EOLhyphen"/>ces where they ſhall be always in readineſs provided for you, with directions to uſe
+<pb n="12" facs="tcp:59838:6"/>them; and the reaſonable rates at which every one may be afforded.</p>
+            <div type="part">
+               <div type="section">
+                  <p>And firſt of the <hi>Sol triumphans,</hi> or <hi>Ho<g ref="char:EOLhyphen"/>rizontall Gold.</hi>
+                  </p>
+                  <p>This tranſcendent and admirable medicine (wherewith) <hi>Paracelſus</hi> and <hi>Van-Helmont,</hi> whoſe fame for the many wonder<g ref="char:EOLhyphen"/>full cures they wrought hereby, hath made them immortall:) hath ſo many eximious virtues as are too tedious to expreſſe; as for the <hi>Gout,</hi> it is a certain and ſure reme<g ref="char:EOLhyphen"/>dy, ſo that all thoſe that languiſh thereby, may by the uſe hereof have preſent eaſe and perfect cure.</p>
+                  <p>It takes away all accidents which re<g ref="char:EOLhyphen"/>mains in the bodies of thoſe that have ta<g ref="char:EOLhyphen"/>ken any <hi>Mercury</hi> or <hi>Mercuriall medicine,</hi> which caſts ſo many into <hi>Conſumptions</hi> by the <hi>Mercury</hi> remaining in their bodies.</p>
+                  <p>It will ſtop any <hi>Flux</hi> cauſed by the ta<g ref="char:EOLhyphen"/>king of <hi>Mercury,</hi> be it never ſo high: and cure the Patient, as I have often experien<g ref="char:EOLhyphen"/>ced, it is of ſingular efficacy in the <hi>Drop<g ref="char:EOLhyphen"/>ſie,
+<pb n="13" facs="tcp:59838:6"/>Jaundies, Epilepſie,</hi> and all <hi>Cronick</hi> diſtempers, as appears by <hi>Van-Helmont,</hi> who ſays he never found it to fail him in any caſe whatſoever, mightily commend<g ref="char:EOLhyphen"/>ing it in <hi>Feavers,</hi> and almoſt every diſeaſe elſe, as you may read at large in his book lately tranſlated: to which for further ſatisfaction I refer the Reader.</p>
+               </div>
+               <div type="section">
+                  <head>II.</head>
+                  <p>The ſecond medicine before mentioned is a pill for the diſeaſes venerial; be it of what nature ſoever; this pill will ef<g ref="char:EOLhyphen"/>fect the cure without any other medicine or dyet drink.</p>
+                  <p>It will take away all pains or aches of the bones; <hi>Nodes, Swellings,</hi> and all ſores in any part, or <hi>
+                        <g ref="char:V">Ʋ</g>lcers</hi> onely taking this pill: and waſhing the <hi>ſores</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>lcers</hi> with <hi>Allum-water</hi> or any ſuch ordinary thing, as a little <hi>Plantain-water</hi> with <hi>Allum</hi> in it, or the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ike.</p>
+                  <p>But if there be a <hi>Gonorrhea,</hi> with the diſeaſe, this pill takes off the malignity
+<pb n="14" facs="tcp:59838:7"/>of the diſtemper: but ſuch other appli<g ref="char:EOLhyphen"/>cations muſt be adminiſtred for the cure, as to the ſtopping of the <hi>Running of the Reines</hi> is propper. This pill far exceeds <hi>Hughs</hi> his powder, which is ſold at three pound ten ſhillings a doſe, and this you may have for five ſhillings a pill which is a Doſe of greater value then his.</p>
+               </div>
+               <div type="section">
+                  <head>III.</head>
+                  <p>The third medicine in order, is the purg<g ref="char:EOLhyphen"/>ing Powder, or the general purge, which neatly purgeth all humours, and is of ex<g ref="char:EOLhyphen"/>cellent uſe in the beginning of <hi>Feavers,</hi> and in all other caſes where purging is requi<g ref="char:EOLhyphen"/>ſite.</p>
+                  <p>The Doſe is the quantity, ſealed up in one of the papers, expoſed publikely to ſale for a reaſonable ordinary body: to weak people give two thirds of this Doſe; and to children one third part of this Doſe; it is or excellent uſe for children, to kill the <hi>Worms;</hi> it may be taken in the pap of an apple, or in a little Sirrup in a ſpoon, or
+<pb n="15" facs="tcp:59838:7"/>in any Conſerve, with a little honey, or in a ſpoonful or two of Wine, taking after it either broth or poſſet-drink, as in the ta<g ref="char:EOLhyphen"/>king of other Phyſick; It is grateful to the taſte, excellently taking away, and carry<g ref="char:EOLhyphen"/>ing off peccant humours, exceeding all o<g ref="char:EOLhyphen"/>ther purges whatſoever. If you vomit, put a pretty quantity of Salt into a diſh of Broth and drink it, and it works onely downward.</p>
+               </div>
+               <div type="section">
+                  <head>IV.</head>
+                  <p>In the fourth place, according to the method before laid down, follows to be deſcribed a medicine <hi>(nulli ſe<g ref="char:EOLhyphen"/>cunda)</hi> which is to be taken in the form of a pill for the benefit of all ſuch as labour under, or are afflicted with that ſad di<g ref="char:EOLhyphen"/>ſtemper called <hi>Convulſion fits,</hi> or the fits of the <hi>Mother;</hi> and all <hi>Vapors, Winds,</hi> and <hi>Griefs</hi> thence ariſing, or proceeding there<g ref="char:EOLhyphen"/>from; It would take up a whole volumn to ſet forth at large what I could by ex<g ref="char:EOLhyphen"/>perience ſay of this diſtemper; and make
+<pb n="16" facs="tcp:59838:8"/>large Legend to inſert therein the number of thoſe who had the happineſs to meet with a Reſtorer of their health; and con<g ref="char:EOLhyphen"/>ſtitution by the uſe of this Medicine by my Adminiſtration; but briefly let me tell you, all ſuch as labour and languiſh under this bad and grievous affliction.</p>
+                  <p>Let them take of theſe Pils one at a time, at any time when you find your ſelves be<g ref="char:EOLhyphen"/>ginning to be grieved with this infirmity; before the ſtrength of the fit ſeizes upon you; for which purpoſe it is always good to have a quantity about you that are ſubject to this grief, that you may take one at any time when you find your ſelfe op<g ref="char:EOLhyphen"/>preſſed, and by a little continuance of ta<g ref="char:EOLhyphen"/>king it you will find a certain cure; never returning again, unleſs by ſome extraor<g ref="char:EOLhyphen"/>dinary accident, fright, or grief, it happen to return, and then it may be ſoon diſcuſ<g ref="char:EOLhyphen"/>ſed. And ſome I have cured many years ago by this very medicine which have ne<g ref="char:EOLhyphen"/>ver been troubled with it more; and ſome by the firſt taking hereof have been cured, and had but one fit in a quarter of a year after, though before have been conſtantly
+<pb n="17" facs="tcp:59838:8"/>afflicted with violent fits, once, if not twice every day.</p>
+               </div>
+               <div type="section">
+                  <head>V.</head>
+                  <p n="5">5. In the next place, I preſent to your view a Soveraign Medicine called a <hi>Balſan<g ref="char:EOLhyphen"/>nike-Pill,</hi> being the eſſential virtue of vege<g ref="char:EOLhyphen"/>tables truely corrected and rightly pre<g ref="char:EOLhyphen"/>pared by me after long ſtudy and great pains and diligence, which hath theſe approved effects following, far exceeding any thing of this nature hitherto publiſhed, as have certa<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nly experienced.</p>
+                  <p>Whereas many die for want of a certain help which God hath provided for them, by violent Coughs which deſtroy the body,</p>
+                  <p>This Pill alone being taken as here is preſcribed in all <hi>Coughs,</hi> be they of what nature ſoever, it is a perfect and ſpeedy Re<g ref="char:EOLhyphen"/>medy.</p>
+                  <p>The like effects it hath upon thoſe who are troubled with ſhortneſs or difficulty of breathing, and all <hi>Aſthmatical</hi> and <hi>Ptiſi<g ref="char:EOLhyphen"/>call</hi> humours.</p>
+                  <p>It is a great preſerver of nature, ſo that
+<pb n="18" facs="tcp:59838:9"/>in <hi>Conſumptions,</hi> whereof ſo many lan<g ref="char:EOLhyphen"/>guiſh &amp; periſh and fill the Church-yards, may by the timely uſe here of be reſtored, and healthfully preſerved in their places and callings.</p>
+                  <p>All <hi>pains, aches, ſtitches,</hi> and <hi>windes,</hi> a<g ref="char:EOLhyphen"/>riſing from the <hi>Hypochondriacks,</hi> or the like, it eaſes and takes away.</p>
+                  <p>It hath a ſingular operation in all ob<g ref="char:EOLhyphen"/>ſtruction of the <hi>Liver, Spleen, Myſeraicks</hi> and <hi>treters;</hi> aſwell as in ſtoppings and ob<g ref="char:EOLhyphen"/>ſtructions of the Lungs, it opens, re<g ref="char:EOLhyphen"/>moves, and clenſes.</p>
+                  <p>For children labouring with or inclined to the <hi>Rickets</hi> it is a perfect Cure.</p>
+                  <p>It prevents the ſtone both in the <hi>Kid<g ref="char:EOLhyphen"/>neies</hi> and <hi>Bladder,</hi> and gives eaſe in the violent paines of the ſame,</p>
+                  <p>It very much abates r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ging pains of the <hi>Gout;</hi> they who frequently uſe it, will find a certain benefit by it.</p>
+                  <pb n="19" facs="tcp:59838:9"/>
+                  <p> In <hi>Epilepſies</hi> and <hi>Convulſion</hi> fits it hath rare effects.</p>
+                  <p>This ſoveraign balſamick Pill is con<g ref="char:EOLhyphen"/>ſtantly prepared by me <hi>Roger Dixon,</hi> and to be had alwayes at my houſe in water-Lane, and at Mr. <hi>Turners</hi> in <hi>Chriſtopher-Alley</hi> in St. <hi>Martins-le-grand,</hi> who makes the <hi>Dentifrices</hi> for the teeth; the price is three Pills a Shilling, a Medicine cheap and good. The doſe is one Pill at a time, to ordinary bodies; to very ſtrong bodies two pills, or one and a half, to weak chil<g ref="char:EOLhyphen"/>dren half a pill: thoſe that cannot ſwallow a pill, may diſſolve it in a ſpoonful or two of wine, or a little Mace-Ale, but it hath no evil taſte, therefore no curious pallat may fear the taking of it.</p>
+                  <p>But particularly thoſe that are troubled with the Cough or any of the diſtempers before mentioned, let them take one of theſe pils at night going to bed, for a man or woman of any reaſonable ſtrength, either ſwallow it or diſſolve it, and take it as be<g ref="char:EOLhyphen"/>fore is directed, and after the ſame man<g ref="char:EOLhyphen"/>ner,
+<pb n="20" facs="tcp:59838:10"/>let perſons weaker or ſtronger take the doſe before preſcribed accordingly.</p>
+                  <p>For the <hi>Rickets,</hi> diſſolve one of theſe pills in a quarter of a pinte of wine, and give a childe half a ſpoonful at a time four times a day.</p>
+                  <p>The operation of this <hi>Balſamick</hi> pill is ſpecifical, not making the body ſick, nor troubling the ſtomack, but carries away the peccant humors by gentle breathing, ſweates and urine.</p>
+               </div>
+               <div type="section">
+                  <head>VI.</head>
+                  <p>The next Medicine which here we do intend to treat of, in order to the method before promiſed in this our intended pub<g ref="char:EOLhyphen"/>lication, is,</p>
+                  <p>A ſpecifical powder prepared effectual to take away, and remedy that ſo Epidemi<g ref="char:EOLhyphen"/>cal and languiſhing, lingring diſtemper called the <hi>Ague,</hi> which hath various kinds and operations, eſpecially the Quartane;
+<pb n="21" facs="tcp:59838:10"/>
+                     <hi>Ague;</hi> which hath ſo long raigned under the Title of <hi>Medicorum Scandalae,</hi> this powder infallibly cures.</p>
+                  <p>The direction how to uſe this powder for the <hi>Ague</hi> is as followes <hi>viz.</hi>
+                  </p>
+                  <p>For men or women troubled with <hi>Agues,</hi> take half one of theſe papers of powder and put it into half a paint of Sack, and take hereof two ſpoonfuls in the morning, and four at night, and the ſame doſe the next day, on the two intermitting dayes, if it be in a Quartane <hi>Ague;</hi> and on the day the fit comes, take the reſt of the paper of powder an houre before the coming of the fit; and after it, drink a good draught of poſſet drink, wherein a handful of green Lavender, and as much Cinquefoile have been boyled; and then let the Patient cover himſelf to ſweat; and about half an hour after let him drink another draught of the ſame poſſet drink, and ſo continue him till the could fit is over: Then if he comes to have any hot burning fit afterwards and be very thirſty, give him a draught of fair water wherein you have firſt boyled a cruſt
+<pb n="22" facs="tcp:59838:11"/>of bread, and a few raiſins of the ſun ſtoned, adding to it ſo much of our <hi>Sal mundi</hi> here preſcribed, as will give it a plea<g ref="char:EOLhyphen"/>ſant ſharp taſte; which will to admiration quench his thirſt, and abate the great de<g ref="char:EOLhyphen"/>ſire to drink, and prevent thoſe evil accidents which uſually attend all Quar<g ref="char:EOLhyphen"/>tane <hi>Agues viz. Jaundies</hi> and <hi>Scurvy,</hi> the like medicine being no where elſe to be found.</p>
+                  <p>For Tertian and Quotidian <hi>Agues,</hi> take the ſame quantity night and morning in wine as before; and before the coming of the fit, drink the poſſet drink before with<g ref="char:EOLhyphen"/>out any powder, uſing the ſame ſalt and Julip to abate &amp; take away the Feaver and the drought occaſioned thereby, as in the Quartane.</p>
+                  <p>This medicene being thus obſerved, and made uſe of, and continued a little time, pecially in the Quartane <hi>Ague,</hi> which otherwiſe will be ſubject to return again; people may be free from thoſe long conti<g ref="char:EOLhyphen"/>nuing maſters the <hi>Agues,</hi> which ſome
+<pb n="23" facs="tcp:59838:11"/>have called evil <hi>Spirits:</hi> And becauſe we have here neceſſarily ſpoke of ſome uſe of our <hi>Sal Mundi:</hi> the deſcription of that followes in the ſeventh place, together with its various uſes, and further ſuperex<g ref="char:EOLhyphen"/>cellent virtues.</p>
+               </div>
+               <div type="section">
+                  <head>VII.</head>
+                  <p>
+                     <hi>Sal Mundi;</hi> by this and many more Titles it may well be called: whoſoever makes experience of it, will ſoon confeſs, it being a ſuperexcellent Medicine, tran<g ref="char:EOLhyphen"/>ſcending all thoſe things hitherto publiſh<g ref="char:EOLhyphen"/>ed, or known to the world, never before found, neither is there any thing of ſo pure a nature to be had in any Doctors library, ſtudy, or <hi>Apothecaries</hi> Shop, or <hi>Chymiſts Laboratory.</hi>
+                  </p>
+                  <p>It hath theſe following; and many more infallible effects, and ſingular virtues.</p>
+                  <p>As firſt in all manner of Feavers, a doſe taken in any convenient Liquor, abates their heat and Malignancy and is a great
+<pb n="24" facs="tcp:59838:12"/>Reſiſter of putrifaction. The poor who have not the benefit of Apothecaries Iu<g ref="char:EOLhyphen"/>leps, may make themſelves a pleaſant and profitable one for Feavers and great droughts, by takeing fait water and boyl therein a cruſt of bread, and a few Raiſins, ſtoned and in a draught thereof take a doſe of this Salt.</p>
+                  <p>It mightily quenches <hi>thirſt,</hi> and abates the drought of the <hi>throat,</hi> being taken in fair water, wherein a Cruſt of bread and a few raiſins have been boyled, as is ſaid before; it takes away the <hi>heat</hi> of the <hi>Stomack</hi> and and that more dangerous then is imagined diſtemper called <hi>heart-burning.</hi>
+                  </p>
+                  <p>The <hi>Plenriſy</hi> it perfectly cures, and the Countrymans harveſt <hi>Surfeit,</hi> whereby many ſtrong men are ſuddenly ſnatcht a<g ref="char:EOLhyphen"/>way in the flower of their dayes. It is good to diſſolve the ſtone in the bladder, the uſe of it being continued a little time.</p>
+                  <p>For the <hi>Scurvie</hi> theri is nothing more
+<pb n="25" facs="tcp:59838:12"/>excellent, and to preſerve or purifie the drink or water at Sea which Seamen drink; by the uſe of this they will be preſerved from thoſe diſeaſes they are by long voy<g ref="char:EOLhyphen"/>ages and bad drink ſubjected unto, which would ſoon be verified by practice if Chi<g ref="char:EOLhyphen"/>rurgions knew it well, but none of them ever yet knew of it; but now I adviſe both them and all perſons elſe that go to Sea never to be unprovided of it; for a better yet they never carried with them, and this will not decay, but may be kept a long time, for its uſe and vertue never fails.</p>
+                  <p>If any Phyſitian will try or taſt it, if reaſon will convince him, he will ſoon con<g ref="char:EOLhyphen"/>clude that this is not publiſhed only for the help of the ignorant, but will deſerve the practice of the moſt learned.</p>
+                  <p>The Doſe is half the quantity contained in one of the papers expoſed to publick ſale, which may be taken at any time in any convenient Liquor once or twice a day; but in the <hi>Pleuriſy</hi> and <hi>Feavers,</hi> take the ſame quantity in the Julip of fair water
+<pb n="26" facs="tcp:59838:13"/>above mentioned, or in other proper and convenient Julips or Sirrups as often as is required. They are ſold at twelve ſhillings a paper.</p>
+               </div>
+               <div type="section">
+                  <head>VIII.</head>
+                  <p>The next to be ſpoken of in order to our firſt preſcription, is a powder for the cure of that faint and feeble diſtemper in young Maids called the <hi>Green ſickneſs;</hi> which is an evil Malady, if not timely prevented. This medicine is a certain and effectual cure; The way to take it is thus, <hi>viz.</hi>
+                  </p>
+                  <p>Take as much of this Powder as will lie on a groat or ſixpence every morning in a ſpoonful of Wormwood wine, or Wormwood beer, drinking a ſmall draught of the ſame drink after it, and walk after it an hour; and then take ſome Water-grewell made ſtrong with Penny-royall boiled in it for the patients breakfaſt: uſe this a few days together, and if one pa<g ref="char:EOLhyphen"/>per of this powder effect not the cure, be ſure continue taking of it, and another pa<g ref="char:EOLhyphen"/>per
+<pb n="27" facs="tcp:59838:13"/>will do it, for it is never known to fail; it hath alſo a grateful ſcent and taſte.</p>
+                  <p>Thoſe that love not Wormwood drink, may take it in a glaſſe of Sack or Rheniſh wine; whoſoever uſes it, after three or four days taking hereof, will walk with pleaſure; it will ſoon bring them to a good colour and a good ſtomack.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Laſtly, having now provided remedies for all diſeaſes and afflictions of the body, that you way walk with eaſe; I have alſo prepared a cure for that painful excremen<g ref="char:EOLhyphen"/>tious humours, called <hi>Corns</hi> in the Feet or Toes, or elſewhere.</p>
+               <p>For a cure for this Malady, I have an excellent plaiſter, which is thus to be ap<g ref="char:EOLhyphen"/>plied.</p>
+               <p>Cut away the hardneſs of the Corn, then apply to the place aſmuch of this plai<g ref="char:EOLhyphen"/>ſter as will cover it, and renew it once in three or four days, it will ſoon give eaſe, and take away the <hi>Corn</hi> in a ſhort time, be<g ref="char:EOLhyphen"/>ing conſtantly applyed.</p>
+               <p>If any perſon deſire further ſatisfaction in any thing herein, if they pleaſe to come
+<pb n="28" facs="tcp:59838:14"/>to me at my houſe in <hi>Water-lane</hi> neer the <hi>Cuſtom-houſe,</hi> or to Mr. <hi>Turners</hi> at his houſe neer St. <hi>Chriſtophers-Alley</hi> in St. <hi>Martins-le-grand,</hi> they ſhall be further reſolved.</p>
+               <p>The <hi>Sol Triumphans</hi> or <hi>Horizantal Gold</hi> onely excepted, that I keep onely at my own houſe.</p>
+               <p>The price of the other is as follows.
+<list>
+                     <item>1. The Pill for the Venerial diſtempers (at five ſhillings the pil, which is one Doſe, which is to be taken every third day) in<g ref="char:EOLhyphen"/>termitting two days.</item>
+                     <item>2. The purging powder is one ſhilling a paper, ſealed up, which is one Doſe for or<g ref="char:EOLhyphen"/>dinary perſons, weaker perſons, two thirds, and for Children one third part of the Doſe.</item>
+                  </list>
+               </p>
+               <p>The pill for <hi>Convulſion fits,</hi> and fits of the <hi>Mother,</hi> are ſealed up three together for one ſhilling, one at a time is a Doſe, as before is directed.</p>
+               <p>The <hi>Balſamick pill,</hi> are ſold three for a ſhilling, alſo one is a Doſe, every night to
+<pb n="29" facs="tcp:59838:14"/>be taken, or when you go to bed, drinking a little Sack after it, if you have it; other<g ref="char:EOLhyphen"/>wiſe a little warm <hi>Ale.</hi>
+               </p>
+               <p>The <hi>Ague</hi> is likewiſe twelve pence a pa<g ref="char:EOLhyphen"/>per; though its virtue and operation far exceeds that which is called the <hi>Jeſuits powder</hi> which is ſold at ten ſhillings a Doſe.</p>
+               <p>
+                  <hi>Sal-mundi</hi> is alſo afforded at one ſhil<g ref="char:EOLhyphen"/>ling the paper.</p>
+               <p>The <hi>Green-ſickneſs</hi> powder is at two ſhillings ſixpence a paper, every paper con<g ref="char:EOLhyphen"/>taining halfe an ounce, which is many Doſes.</p>
+               <p>The plaiſter for the <hi>Corns</hi> at twelve-pence a plaiſter.</p>
+               <closer>
+                  <dateline>From my houſe in <hi>Water lane</hi> 
+                     <date>1 March 1663.</date>
+                  </dateline>
+                  <signed>Roger Dixon.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="advert_for_medicines">
+            <pb n="30" facs="tcp:59838:15"/>
+            <p>Theſe medicines before, mentioned, an always ready prepared to be had at my houſe in <hi>Water-lane</hi> neer the <hi>Cuſtom houſe.</hi>
+            </p>
+            <p>At the houſe of Mr. <hi>Turner,</hi> Author of the <hi>Dentifrices</hi> for the Teeth: in St. <hi>Chri<g ref="char:EOLhyphen"/>ſtophers Alley</hi> in St. <hi>Martyns-le-grand,</hi> at Mr. <hi>Nathaniel Brooks</hi> his ſhop at the <hi>Angel</hi> in <hi>Cornhil</hi> neer the <hi>Royal Exchange,</hi> and at Mrs. <hi>Stamps</hi> Bookſeller in <hi>Weſt min<g ref="char:EOLhyphen"/>ster hall,</hi> at the Shop of <hi>Rachard Dixon</hi> Barber in <hi>Queen ſtreet.</hi> And by Mr. <hi>Foun<g ref="char:EOLhyphen"/>tain,</hi> Tooth-drawer neer the <hi>Maypole</hi> in the <hi>Strand;</hi> at Mr. <hi>Maynards</hi> ſhop, Gold<g ref="char:EOLhyphen"/>ſmith, at the <hi>Blew Bell</hi> in <hi>Southwark</hi> at St. <hi>Margarets-hill. Thomas Webb</hi> at Mr <hi>Tal<g ref="char:EOLhyphen"/>lies</hi> a Plaiſterer in the <hi>little Minoxies,</hi> at <hi>Adam Hares</hi> neer <hi>Lime-houſe</hi> over a<g ref="char:EOLhyphen"/>gainſt the <hi>Green dragon Tavern</hi> in <hi>Ratcliff,</hi> with directions for the uſe, at all which places this Book is alſo to be had.</p>
+            <pb n="31" facs="tcp:59838:15"/>
+            <p> Mr. <hi>Turners</hi> excellent <hi>Dentifrices</hi> for cleanſing the Teeth, ſweetning the Breath, and preventing the Tooth-ach, are ſold at the ſhop of Mr. <hi>Rooks</hi> at the ſign of the <hi>Ho<g ref="char:EOLhyphen"/>ly Lamb</hi> and <hi>Ink-bottle</hi> at the <hi>Eaſt end of St. Pauls Church,</hi> at Mr. <hi>Sowrebys</hi> neer the <hi>Turnſtile</hi> going out of <hi>Lincolns-Inn fields</hi> to <hi>Newmarket,</hi> and at the Authors own houſe in St. <hi>Chriſtophers Alley</hi> in St. <hi>Martins-le-grand:</hi> with directions printed for the uſe of them. They are ſold at ſuch other pla<g ref="char:EOLhyphen"/>ces as the ſaid Authors Bill makes mention of.</p>
+            <p>
+               <hi>As alſo the true Symapathetical powder, cu<g ref="char:EOLhyphen"/>ring all green wounds,</hi> &amp;c. <hi>ſold by Mr.</hi> Nathaniel Brooke <hi>onely at the</hi> Angel <hi>in</hi> Cornhill.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
